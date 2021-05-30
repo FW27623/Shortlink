@@ -6,7 +6,7 @@
 
 这是一个网址缩短服务的网站的源代码。
 
-Demo: <https://1bs.co/>
+Demo: <https://1016.site/>
 
 ## 安装
 
